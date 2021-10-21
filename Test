@@ -1,0 +1,15 @@
+str 1= "SELECT ME!"
+Print S=[[" " for i in range (7)] for j in range(7)]
+Print E=[[" " for i in range (7)] for j in range(7)]
+Print L=[[" " for i in range (7)] for j in range(7)]
+Print E=[[" " for i in range (7)] for j in range(7)]
+Print C=[[" " for i in range (7)] for j in range(7)]
+Print T=[[" " for i in range (7)] for j in range(7)]
+Print M=[[" " for i in range (7)] for j in range(7)]
+Print E=[[" " for i in range (7)] for j in range(7)]
+Print !=[[" " for i in range (7)] for j in range(7)]
+Print =[[" " for i in range (7)] for j in range(7)]
+for i in range 7:
+for j in range 7:
+
+
